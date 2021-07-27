@@ -1,6 +1,6 @@
 import React from "react";
 import Entry from "./Entry";
-import emojipedia from "../emojipedia";
+import emojipedia from "../Emojipedia";
 
 function createEntry(emojiTerm) {
   return (
